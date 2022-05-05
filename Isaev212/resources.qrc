@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/USB.png</file>
+        <file>img/XLR4.jpg</file>
+        <file>img/coaxial-razem-tv.jpg</file>
+    </qresource>
+</RCC>
